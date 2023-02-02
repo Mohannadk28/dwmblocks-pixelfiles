@@ -2,7 +2,9 @@
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
   { "󰖟  ", "bash ~/.dwm/blocks/lang.sh",          1,    0 },
+  { "  ", "bash ~/.dwm/blocks/pac.sh",           3,    0 },
   { "  ", "bash ~/.dwm/blocks/kernal.sh",        0,    0 },
+  { "󰋊  ", "bash ~/.dwm/blocks/disk.sh",        100,    0 },
 	{ "󰍛  ", "bash ~/.dwm/blocks/mem.sh",	          5,		0 },
   { "󰻠  ", "bash ~/.dwm/blocks/cpu.sh",           5,    0 },
   { "󰃞  ", "bash ~/.dwm/blocks/bright.sh",        1,    0 },

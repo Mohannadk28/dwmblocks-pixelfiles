@@ -1,7 +1,7 @@
 //Modify this file to change what commands output to your statusbar, and recompile using the make command.
 static const Block blocks[] = {
 	/*Icon*/	/*Command*/		/*Update Interval*/	/*Update Signal*/
-  { "󰖟  ", "bash ~/.dwm/blocks/lang.sh",          1,    0 },
+  { "",  "bash ~/.dwm/blocks/lang.sh",          1,    0 },
   { "  ", "bash ~/.dwm/blocks/pac.sh",           3,    0 },
   { "  ", "bash ~/.dwm/blocks/kernal.sh",        0,    0 },
   { "󰋊  ", "bash ~/.dwm/blocks/disk.sh",        100,    0 },

@@ -3,7 +3,7 @@ static const Block blocks[] = {
     /*Icon*/ /*Command*/		                                         /*Update Interval*/ /*Update Signal*/
   { "",      "bash ~/.pixelfiles/dwmblocks-pixelfiles/blocks/lang.sh",   1,                  0 },
   { "󰁪  ",   "bash ~/.pixelfiles/dwmblocks-pixelfiles/blocks/pac.sh",    1,                  0 },
-  { "  ",   "bash ~/.pixelfiles/dwmblocks-pixelfiles/blocks/kernal.sh", 0,                  0 },
+  { "  ",   "bash ~/.pixelfiles/dwmblocks-pixelfiles/blocks/kernal.sh", 0,                  0 },
   { "󰋊  ",   "bash ~/.pixelfiles/dwmblocks-pixelfiles/blocks/disk.sh",   1,                  0 },
   { "󰍛  ",   "bash ~/.pixelfiles/dwmblocks-pixelfiles/blocks/mem.sh",	 1,                  0 },
   { "󰻠  ",   "bash ~/.pixelfiles/dwmblocks-pixelfiles/blocks/cpu.sh",    1,                  0 },

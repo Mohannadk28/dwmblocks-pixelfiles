@@ -1,4 +1,4 @@
 #!/bin/bash
 
-echo ""$USER" :D"
+echo ""$USER" :D "
 
